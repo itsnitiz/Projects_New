@@ -1,0 +1,1 @@
+This project was to create an independent service where it will evaluate LLM output and input on the go where it doesn't have ground truth. The intention is to deploy into the service where it will work with already deployed LLM.
