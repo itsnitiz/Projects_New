@@ -1,0 +1,1 @@
+This POC was to experiment around to record translations and transcriptions of audio call recordings. I already had explored OpenAI Whisper but due to high cost, we are experimenting around Chirp as they are cheaper. But noticed that Whisper was able to handle a lot of Indian regional languages compared to Chirp.

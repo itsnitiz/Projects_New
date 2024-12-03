@@ -1,0 +1,1 @@
+This project was to create synthetic data which should be very much real life account transactions behaviour so that we can create derived data based on which model will be trained.
