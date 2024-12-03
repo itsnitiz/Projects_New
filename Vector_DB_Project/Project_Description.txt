@@ -1,0 +1,1 @@
+The Vector DB is built on PGVector where transcripts of audio call recordings are stored. The transcripts are created through OpenAI whisper.  
